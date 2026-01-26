@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f9wF15SWtF/rAgyVUvmNNJ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "gamegroup_bg",
+      "rect": [
+        0,
+        0,
+        232,
+        392
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        232,
+        392
+      ],
+      "capInsets": [
+        28,
+        28,
+        28,
+        28
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

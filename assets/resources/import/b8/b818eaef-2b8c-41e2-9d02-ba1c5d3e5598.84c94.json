@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "55+ULXTfFNAoVrobnghBFd"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "sportOff",
+      "rect": [
+        4,
+        5,
+        40,
+        39
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        48,
+        48
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

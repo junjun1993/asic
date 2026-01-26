@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "4cDoqrWPZIgoF2JmZi7Tll"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "pltLogo",
+      "rect": [
+        15,
+        14,
+        122,
+        32
+      ],
+      "offset": [
+        -4,
+        0
+      ],
+      "originalSize": [
+        160,
+        60
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

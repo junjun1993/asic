@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "77afh6/W9NpZmaQJ8bgvC4"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "dropdown_bg",
+      "rect": [
+        0,
+        0,
+        360,
+        140
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        360,
+        140
+      ],
+      "capInsets": [
+        125,
+        50,
+        125,
+        50
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

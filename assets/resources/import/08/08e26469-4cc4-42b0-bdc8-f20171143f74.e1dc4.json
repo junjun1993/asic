@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "1448a1SFhHoay9D69fCd2v"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lotteryOff",
+      "rect": [
+        3,
+        2,
+        45,
+        42
+      ],
+      "offset": [
+        1.5,
+        1
+      ],
+      "originalSize": [
+        48,
+        48
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5a1JopwThCdLwV7qzGaGo2"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "augLogo",
+      "rect": [
+        15,
+        8,
+        110,
+        46
+      ],
+      "offset": [
+        -10,
+        -1
+      ],
+      "originalSize": [
+        160,
+        60
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

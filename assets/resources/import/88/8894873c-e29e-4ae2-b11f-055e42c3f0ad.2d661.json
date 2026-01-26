@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "21q5gCi6hPRL64xrDd88eH"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "pplLogo",
+      "rect": [
+        10,
+        0,
+        132,
+        60
+      ],
+      "offset": [
+        -4,
+        0
+      ],
+      "originalSize": [
+        160,
+        60
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
